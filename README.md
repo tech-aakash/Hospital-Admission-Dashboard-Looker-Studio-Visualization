@@ -5,7 +5,7 @@ The dataset includes **patient demographics, comorbidities, outcomes, lifestyle 
 
 ---
 
-## 📊 Overview
+## Overview
 
 The dashboard is divided into **three key sections** to provide a comprehensive understanding of patient trends and hospital outcomes:
 
@@ -17,13 +17,13 @@ Each section explores different aspects of hospital data — from who the patien
 
 ---
 
-## 🚀 Interactive Dashboard
+## Interactive Dashboard
 
 You can explore the full **Hospital Admission Analytics Dashboard** here:  
 👉 [**View Live Dashboard on Looker Studio**](https://lookerstudio.google.com/reporting/4c372c07-a921-44be-8d66-0464d21604ed)
 
 ---
-## 🧩 Dataset Description
+## Dataset Description
 
 The dataset includes detailed information for each patient admission:
 
