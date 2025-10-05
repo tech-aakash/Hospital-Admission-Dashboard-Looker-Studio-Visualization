@@ -134,13 +134,3 @@ The dataset includes detailed information for each patient admission:
 | **Patient Demographics** | ![Demographics](./images/dashboard1.png) |
 | **Clinical Profile & Disease Burden** | ![Clinical](./images/dashboard2.png) |
 | **Lifestyle Insights** | ![Lifestyle](./images/dashboard3.png) |
-
----
-
-## 🧑‍💻 Author
-
-**Aakash Walawalkar**  
-📧 [aakash.muskurahat@gmail.com](mailto:aakash.muskurahat@gmail.com)  
-📊 Data Analyst | Healthcare Data Visualization | Looker Studio Expert
-
----
