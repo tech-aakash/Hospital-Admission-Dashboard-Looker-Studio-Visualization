@@ -131,6 +131,6 @@ The dataset includes detailed information for each patient admission:
 
 | Section | Screenshot |
 |----------|-------------|
-| **Patient Demographics** | ![Demographics](./images/dashboard1.png) |
-| **Clinical Profile & Disease Burden** | ![Clinical](./images/dashboard2.png) |
-| **Lifestyle Insights** | ![Lifestyle](./images/dashboard3.png) |
+| **Patient Demographics** | ![Demographics](dashboard1.png) |
+| **Clinical Profile & Disease Burden** | ![Clinical](dashboard2.png) |
+| **Lifestyle Insights** | ![Lifestyle](dashboard3.png) |
